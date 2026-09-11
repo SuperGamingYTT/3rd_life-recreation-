@@ -12,20 +12,20 @@ if you want to set someone to a specific color you first need to do the
 command then you can use these commands listed to change your color to green, yellow, and gray (spectator).
 
 Green:
-`/function 3rd_life:manual_team_change_green`
+`/function 3rd_life:team_change_green`
 
 Yellow:
-`/function 3rd_life:manual_team_change_yellow`
+`/function 3rd_life:team_change_yellow`
 
 Red:
-`/function 3rd_life:manual_team_change_red`
+`/function 3rd_life:team_change_red`
 
 Spectator:
-`/function 3rd_life:manual_team_change_spectator`
+`/function 3rd_life:team_change_spectator`
 
 Spectator silent:
 (Makes you a spectator without sound, and lightning)
-`/function 3rd_life:manual_team_change_spectator_silent`
+`/function 3rd_life:team_change_spectator_silent`
 
 When you become a spectator everyone on the world/server will hear a wither death sound and a skeleton and lightning will spawn where you died!
 
