@@ -1,1 +1,0 @@
-tellraw @a {"text":"3rd_life datapack sucessfully loaded!","color":"green"}
